@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width = 250px></picture></p>
 <h1 align="center">Hi 👋 Everyone, I'm Andres Villa</h1>
-<h3 align="center">Passionate IT Student | Exploring how the new tecnologies help to improve there buisiness and work</h3>
+<h3 align="center">Passionate Data Science, IA Student, Cybersecurity Enthusiast | Exploring how new technologies help improve people's businesses and work</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://dplnews.com/wp-content/uploads/2020/06/Dplnews_ai_as050620.gif">
 
   
   </td>
