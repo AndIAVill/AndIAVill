@@ -1,19 +1,19 @@
 <p align="center"><picture align="center"><img align="center" src = "https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" width = 250px></picture></p>
 <h1 align="center">Hi 👋 Everyone, I'm Andres Villa</h1>
-<h3 align="center">Passionate Data Science, IA Student, Cybersecurity Enthusiast | Exploring how new technologies help improve people's businesses and work</h3>
+<h3 align="center">Passionate Data Science Dev, IA Dev, Cybersecurity Enthusiast | Exploring how new technologies help improve people's businesses and work</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **Cybersecurity**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **Universidad Nacional de Colombia**
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 Ask me about **Data Science | IA | Cybersecurity**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **andresystems0306@gmail.com**
   
 - ⚡ Fun fact **Call me as KD**
 
